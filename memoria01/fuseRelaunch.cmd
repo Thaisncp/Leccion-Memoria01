@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/ASUS/Desktop/Xiling/EjerciciosU2/memoria01/TBmemorydemo_isim_beh.exe" -prj "C:/Users/ASUS/Desktop/Xiling/EjerciciosU2/memoria01/TBmemorydemo_beh.prj" "work.TBmemorydemo" 
